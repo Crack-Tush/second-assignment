@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgba(230, 210, 225, 0.611);
+    padding-bottom: 3em;    
+}
+.header{
+    background-color: rgba(230, 210, 225, 0.611);
+    border-radius: 20px;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+}
+h4, h5{
+    font-family: 'Teko', sans-serif;
+}
+h3{
+    font-family: 'Fjalla One', sans-serif;
+}
+.bg{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.gold{
+    color: rgb(181, 142, 15);
+}
+
+.pen-card{
+    border: 0;
+}
+
+.pen-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.pen-footer{
+    border-radius: 1em;
+    text-align: center;
+}
+.my-footer{
+    border-radius: 1em;
+    text-align: center;
+}
+li:hover{
+    background-color: gray;
+    border-radius: 30px;
+    transition: 2s;
+}
